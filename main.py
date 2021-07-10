@@ -1,7 +1,6 @@
 import json
 import asyncio
 import discord
-from concurrent.futures import ThreadPoolExecutor
 
 
 class Client(discord.Client):

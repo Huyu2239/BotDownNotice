@@ -1,0 +1,9 @@
+{
+    "BotName": "SomeBot",
+    "TOKEN" : "Th1slsN0tT0k3n.B3cause.1fiShowB0tWillG3tH4eked",
+    "commands": ["/ping", "/help"],
+    "log_ch_id": 123456789101112130,
+    "down_msg": "Botがダウンしました。\n復帰まで今しばらくお待ちください。",
+    "notice_msg": "Botがダウンしました。\nBotの復帰後このチャンネルにメッセージを送信してください。",
+    "mention_span": 0
+}
